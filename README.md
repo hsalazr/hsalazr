@@ -1,8 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/portrait-dark.svg">
-  <img src="assets/portrait-light.svg" width="160" align="right" alt="Portrait of Humberto Salazar, drawn in engraved lines">
-</picture>
-
 ### Humberto Salazar
 
 I build cloud-scale systems at AWS, and small machines at home that make my own work easier.
